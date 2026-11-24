@@ -1,5 +1,7 @@
 # dotfiles — wallpaper-driven rices
 
+https://github.com/muhan-alan-li/dotfiles
+
 Two dark themes for Fedora 44 + KDE Plasma 6 + Ghostty, both derived from a wallpaper.
 
 | Theme | Wallpaper | Mood |
