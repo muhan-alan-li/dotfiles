@@ -123,6 +123,10 @@ def write_ghostty(p: dict) -> None:
         lines.append(f"palette = {i}={a[key]}")
     lines += [
         "",
+        'font-family = "Fira Code"',
+        'font-family-bold = "Fira Code"',
+        'font-family-italic = "Fira Code"',
+        'font-family-bold-italic = "Fira Code"',
         "font-size = 12",
         "window-padding-x = 12",
         "window-padding-y = 12",

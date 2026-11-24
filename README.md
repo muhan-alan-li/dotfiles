@@ -114,6 +114,6 @@ See `layouts/floating-minimal/README.md` for details and theme follow-ups.
 
 - Install theme engines so GTK/Qt apps follow the scheme:
   `sudo dnf install kvantum qt6ct qt5ct lxappearance`
-- Fonts: `sudo dnf install jetbrains-mono-fonts fira-code-fonts`
+- Fonts: **Fira Code** is the terminal font (`fira-code-fonts`, already installed)
 - Set matching icon/cursor themes in *System Settings → Appearance*.
 - Consider a tiling WM (Hyprland or Sway) only after the Plasma rice feels right.

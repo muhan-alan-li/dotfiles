@@ -39,7 +39,7 @@ The layout gets you the structure; these get you the "glass card" finish:
    `sudo dnf install kvantum qt6ct qt5ct lxappearance`
 3. **Flat icon theme** (e.g. Papirus):
    `sudo dnf install papirus-icon-theme`
-4. **Fonts**: `sudo dnf install jetbrains-mono-fonts inter-fonts`
+4. **Fonts**: Fira Code is the terminal font (`fira-code-fonts`, already installed)
 5. **Window decorations**: KWin settings → *Window Decorations* → slim titlebar,
    small buttons, rounded corners if your theme supports them.
 6. **Desktop info cards** (optional, like the red/white reference): add clock,
