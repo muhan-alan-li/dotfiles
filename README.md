@@ -96,6 +96,20 @@ source ~/Repos/dotfiles/p10k/coastal.zsh   # or sakura.zsh
 Your `~/.p10k.zsh` is left untouched. Run `p10k configure` if you want the
 wizard to regenerate it.
 
+## Layouts
+
+`layouts/floating-minimal/` is a chrome-free Plasma layout: hairline top strip
+(clock — media — tray — power) and a centered floating bottom dock
+(icons — virtual desktops — app grid). Applied live through Plasma's scripting
+API, with backup and revert:
+
+```bash
+./scripts/apply-layout.sh floating-minimal
+./scripts/revert-layout.sh
+```
+
+See `layouts/floating-minimal/README.md` for details and theme follow-ups.
+
 ## Next steps for a fuller rice
 
 - Install theme engines so GTK/Qt apps follow the scheme:
