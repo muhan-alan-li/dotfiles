@@ -110,6 +110,13 @@ API, with backup and revert:
 
 See `layouts/floating-minimal/README.md` for details and theme follow-ups.
 
+`scripts/apply-glass-theme.sh` installs the frosted-glass Plasma theme, smooth
+blur and Papirus icons. It leaves your panel layout and color scheme untouched:
+
+```bash
+./scripts/apply-glass-theme.sh
+```
+
 ## Next steps for a fuller rice
 
 - Install theme engines so GTK/Qt apps follow the scheme:

@@ -33,13 +33,14 @@ Backups live in `~/.local/share/dotfiles-backups/<timestamp>/`.
 
 The layout gets you the structure; these get you the "glass card" finish:
 
-1. **Look-and-feel theme** — a minimal rounded theme from KDE Store (e.g.
-   Sweet, Catppuccin, Nordic) changes panel backgrounds, widgets and lock screen.
-2. **Kvantum + GTK theme** (for app windows):
-   `sudo dnf install kvantum qt6ct qt5ct lxappearance`
-3. **Flat icon theme** (e.g. Papirus):
-   `sudo dnf install papirus-icon-theme`
-4. **Fonts**: Fira Code is the terminal font (`fira-code-fonts`, already installed)
+1. **Plasma style** — DONE: `apply-glass-theme.sh` installs the frosted-glass
+   theme (panels/popups/toolkits), with smooth blur and no grain.
+2. **Kvantum + GTK theme** (optional, for app windows):
+   `sudo dnf install kvantum qt6ct qt5ct lxappearance` — then pick a matching
+   theme in Kvantum Manager / lxappearance. Breeze already follows the color
+   scheme, so this is optional.
+3. **Flat icon theme** — DONE: Papirus (`papirus-icon-theme`).
+4. **Fonts** — DONE: Fira Code is the terminal font (`fira-code-fonts`).
 5. **Window decorations**: KWin settings → *Window Decorations* → slim titlebar,
    small buttons, rounded corners if your theme supports them.
 6. **Desktop info cards** (optional, like the red/white reference): add clock,
