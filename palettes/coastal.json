@@ -1,0 +1,42 @@
+{
+  "name": "Coastal",
+  "slug": "coastal",
+  "description": "Overcast Jeju coastline: deep foliage green, shadowed sea blue, soft cloud grey and a sunlit moss accent.",
+  "wallpaper_source": "/home/muhanli/Downloads/DSC03235_01.png",
+  "palette_source": "Extracted from wallpaper with Pillow quantize (12 colors), then roles tuned for contrast.",
+  "colors": {
+    "base": "#1d2819",
+    "surface": "#223946",
+    "surface_alt": "#2e5161",
+    "accent": "#326f91",
+    "accent_bright": "#7496ac",
+    "text": "#c3d0d8",
+    "muted": "#94a5b2",
+    "highlight": "#888c59",
+    "positive": "#8fa96b",
+    "negative": "#c98f7e",
+    "warning": "#c0b27a",
+    "link": "#7496ac"
+  },
+  "ansi": {
+    "black": "#1d2819",
+    "red": "#a8614f",
+    "green": "#888c59",
+    "yellow": "#c0b27a",
+    "blue": "#326f91",
+    "magenta": "#6d7fa0",
+    "cyan": "#467998",
+    "white": "#94a5b2",
+    "bright_black": "#39451b",
+    "bright_red": "#c98f7e",
+    "bright_green": "#a8c07a",
+    "bright_yellow": "#dcc98f",
+    "bright_blue": "#7496ac",
+    "bright_magenta": "#9aabc9",
+    "bright_cyan": "#5f9fbb",
+    "bright_white": "#c3d0d8"
+  },
+  "cursor": "#94a5b2",
+  "selection_bg": "#326f91",
+  "selection_fg": "#c3d0d8"
+}

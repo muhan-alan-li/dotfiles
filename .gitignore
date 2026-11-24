@@ -1,0 +1,9 @@
+# Local scratch / generated previews
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.swp
+*~
+__pycache__/
+*.pyc

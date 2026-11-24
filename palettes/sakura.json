@@ -1,0 +1,42 @@
+{
+  "name": "Sakura",
+  "slug": "sakura",
+  "description": "Cherry blossoms: dark plum base, petal pink accent, cream white text and a soft green/blue support cast.",
+  "wallpaper_source": "TBD - placeholder palette. Replace with colors extracted from your chosen cherry blossom photo.",
+  "palette_source": "Representative sakura palette (placeholder). Re-run the generator after dropping your photo in wallpapers/.",
+  "colors": {
+    "base": "#1e1a1f",
+    "surface": "#2b2329",
+    "surface_alt": "#3a2f37",
+    "accent": "#d9879e",
+    "accent_bright": "#f4b8c4",
+    "text": "#fdf4f5",
+    "muted": "#d9ced2",
+    "highlight": "#e8a0b4",
+    "positive": "#9dbf97",
+    "negative": "#e07a91",
+    "warning": "#e6c187",
+    "link": "#a9c4d6"
+  },
+  "ansi": {
+    "black": "#1e1a1f",
+    "red": "#d9879e",
+    "green": "#9dbf97",
+    "yellow": "#e6c187",
+    "blue": "#a9c4d6",
+    "magenta": "#c89ac0",
+    "cyan": "#9fc9c9",
+    "white": "#d9ced2",
+    "bright_black": "#4a3b43",
+    "bright_red": "#f4a8b9",
+    "bright_green": "#b8d4b0",
+    "bright_yellow": "#f2d6a2",
+    "bright_blue": "#c2dbec",
+    "bright_magenta": "#e6b8e0",
+    "bright_cyan": "#bfe0df",
+    "bright_white": "#fdf4f5"
+  },
+  "cursor": "#f4a8b9",
+  "selection_bg": "#d9879e",
+  "selection_fg": "#1e1a1f"
+}
